@@ -1,2 +1,3 @@
 # git-notes
-练习git操作
+
+## git rebase 合并分支
